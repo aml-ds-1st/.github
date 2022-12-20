@@ -12,8 +12,8 @@ This project is to analyze time-series effects on Rail Temperature Prediction Mo
 |Member|Role|E-mail|Google Scholar|C.V.|
 |:-----------------:|:-------------:|:---------------:|:-------------:|:-------------:|
 |Cheoljeong Park|Team leader|pffiro@gmail.com|[site](https://scholar.google.co.kr/citations?user=w2KWhvIAAAAJ&hl=en)|[C.V.](https://incorpcj.notion.site/C-V-CheolJeong-Park-c27d08f2c3e04c86b832eab54dc70341)
-|Jongwon Yoon|Member|jongwon3498@naver.com|[site](https://scholar.google.co.kr/citations?user=-Jhp7zEAAAAJ&hl=en)|
-|Chungsu Han|Member|cndtn1999@gmail.com|-|-|[C.V.]()
+|Jongwon Yoon|Member|jongwon3498@naver.com|[site](https://scholar.google.co.kr/citations?user=-Jhp7zEAAAAJ&hl=en)|[C.V.]()|
+|Chungsu Han|Member|cndtn1999@gmail.com|-|-|
 |Kwanghyo Lee|Member|rhkdgy1120@gmail.com|-|-|
 |Seong J. Cho|Advisor|scho@cnu.ac.kr|[site](https://scholar.google.co.kr/citations?user=fPkDoGsAAAAJ&hl=en)|[C.V.]()
 
