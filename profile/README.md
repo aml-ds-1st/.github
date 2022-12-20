@@ -1,7 +1,5 @@
-# **AML Data Science 1st**
-
-## Projects
-### **No. 01 : Analysis of time-series effects on Rail Temperature Prediction Model based on Machine Learning Methods.**
+# Projects
+## **No. 01 : Analysis of time-series effects on Rail Temperature Prediction Model based on Machine Learning Methods.**
 
 This project is to analyze time-series effects on Rail Temperature Prediction Model (RTPM) basd on Machine Learning Mehtods. We mainly used `Random Forest`, `XGboost`, `Recurrent Neural Network (RNN)` and `Long Short Term Memory (LSTM)`. We described detailed results at the [`repository`](https://github.com/aml-ds-1st/1st-project). We used `pyhon`, especially `tensorflow` and `pytorch`.  
 <br>If you need more detailed information or collaboration, Please contact us! <br>
