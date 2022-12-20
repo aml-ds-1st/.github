@@ -6,7 +6,7 @@
 This project is to analyze time-series effects on Rail Temperature Prediction Model (RTPM) basd on Machine Learning Mehtods. We mainly used `Random Forest`, `XGboost`, `Recurrent Neural Network (RNN)` and `Long Short Term Memory (LSTM)`. We described detailed results at the repository. We used `pyhon`, especially `tensorflow` and `pytorch`. If you need more detailed information or collaboration, Please contact us! <br>
 
 - Team
-<center>
+<div align="center">
 
 |Member|Role|E-mail|Google Scholar|C.V.|
 |:-----------------:|:-------------:|:---------------|:-------------:|:-------------:|
@@ -16,7 +16,7 @@ This project is to analyze time-series effects on Rail Temperature Prediction Mo
 |Kwanghyo Lee|Member|rhkdgy1120@gmail.com|-|-|
 |Seong J. Cho|Advisor|scho@cnu.ac.kr|[site](https://scholar.google.co.kr/citations?user=fPkDoGsAAAAJ&hl=en)|[C.V.]()
 
-</center>
+</div>
 <br>
 
 > Powered by [`CheoljeongPark`](https://incorpcj.notion.site/C-V-CheolJeong-Park-c27d08f2c3e04c86b832eab54dc70341) and [Advacnced Manufacturing Laboratory(AML)](https://amlkorea.com).<br>
